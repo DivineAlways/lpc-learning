@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "push": "git push https://github.com/DivineAlways/lpc-learning.git main"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
